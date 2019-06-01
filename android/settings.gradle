@@ -1,0 +1,3 @@
+rootProject.name = 'fanart_4099'
+
+include ':app'
